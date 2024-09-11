@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Things Fall Apart",
+        "author": "Chinua Achebe",
+        "imageURL": "hhttps://upload.wikimedia.org/wikipedia/en/6/65/ThingsFallApart.jpg",
+        "genre": "Fiction",
+        "plot": "A novel about the effects of colonialism on traditional African society.",
+        "year": 1958
+    },
+    {
+        "title": "Fairy tales",
+        "author": "Hans Christian Andersen",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hans_Christian_Andersen_Fairy_Tales.jpg/220px-Hans_Christian_Andersen_Fairy_Tales.jpg",
+        "genre": "Fairy Tale",
+        "plot": "A collection of fairy tales written for children.",
+        "year": 1836
+    },
+    {
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/The_Divine_Comedy_-_Dante_Alighieri.jpg/220px-The_Divine_Comedy_-_Dante_Alighieri.jpg",
+        "genre": "Epic Poetry",
+        "plot": "An epic poem describing Dante's journey through Hell, Purgatory, and Paradise.",
+        "year": 1315
+    },
+    {
+        "title": "The Epic Of Gilgamesh",
+        "author": "Unknown",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Epic_of_Gilgamesh.jpg/220px-Epic_of_Gilgamesh.jpg",
+        "genre": "Epic",
+        "plot": "An epic poem from ancient Mesopotamia that is one of the earliest known works of literary fiction.",
+        "year": -1700
+    },
+    {
+        "title": "The Book Of Job",
+        "author": "Unknown",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Job_Bouguereau_1878.jpg/220px-Job_Bouguereau_1878.jpg",
+        "genre": "Religious",
+        "plot": "A book of the Bible that tells the story of Job and his trials.",
+        "year": -600
+    },
+    {
+        "title": "One Thousand and One Nights",
+        "author": "Unknown",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/One_Thousand_and_One_Nights.jpg/220px-One_Thousand_and_One_Nights.jpg",
+        "genre": "Folklore",
+        "plot": "A collection of Middle Eastern folk tales compiled during the Islamic Golden Age.",
+        "year": 1200
+    },
+    {
+        "title": "Njál's Saga",
+        "author": "Unknown",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nj%C3%A1ls_saga.jpg/220px-Nj%C3%A1ls_saga.jpg",
+        "genre": "Saga",
+        "plot": "A classic Icelandic saga about the story of Njál and his family.",
+        "year": 1350
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Pride_and_Prejudice_by_Jane_Austen.jpg/220px-Pride_and_Prejudice_by_Jane_Austen.jpg",
+        "genre": "Novel",
+        "plot": "A romantic novel that critiques the British landed gentry at the end of the 18th century.",
+        "year": 1813
+    },
+    {
+        "title": "Le Père Goriot",
+        "author": "Honoré de Balzac",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Le_P%C3%A8re_Goriot.jpg/220px-Le_P%C3%A8re_Goriot.jpg",
+        "genre": "Novel",
+        "plot": "A story about a retired merchant and his two daughters who use him.",
+        "year": 1835
+    },
+    {
+        "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+        "author": "Samuel Beckett",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Molloy%2C_Malone_Dies%2C_The_Unnamable_%28cover%29.jpg/220px-Molloy%2C_Malone_Dies%2C_The_Unnamable_%28cover%29.jpg",
+        "genre": "Novel",
+        "plot": "A trilogy of novels exploring themes of existentialism.",
+        "year": 1952
+    },
+    {
+        "title": "The Decameron",
+        "author": "Giovanni Boccaccio",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Decameron.jpg/220px-The_Decameron.jpg",
+        "genre": "Collection of Stories",
+        "plot": "A collection of novellas about the Black Death and its effects on society.",
+        "year": 1351
+    },
+    {
+        "title": "Ficciones",
+        "author": "Jorge Luis Borges",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ficciones_-_Borges.jpg/220px-Ficciones_-_Borges.jpg",
+        "genre": "Short Stories",
+        "plot": "A collection of surreal and philosophical short stories.",
+        "year": 1965
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wuthering_Heights_cover.jpg/220px-Wuthering_Heights_cover.jpg",
+        "genre": "Novel",
+        "plot": "A novel about the passionate and tumultuous relationship between Catherine Earnshaw and Heathcliff.",
+        "year": 1847
+    },
+    {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Albert_Camus_1946.jpg/220px-Albert_Camus_1946.jpg",
+        "genre": "Philosophical Novel",
+        "plot": "A novel that explores existentialism and the absurd.",
+        "year": 1942
+    },
+    {
+        "title": "Poems",
+        "author": "Paul Celan",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Paul_Celan.jpg/220px-Paul_Celan.jpg",
+        "genre": "Poetry",
+        "plot": "A collection of poems by the renowned Romanian-German poet.",
+        "year": 1952
+    },
+    {
+        "title": "Journey to the End of the Night",
+        "author": "Louis-Ferdinand Céline",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Celine_louis_ferdinand.jpg/220px-Celine_louis_ferdinand.jpg",
+        "genre": "Novel",
+        "plot": "A semi-autobiographical novel depicting the experiences of a World War I veteran.",
+        "year": 1932
+    },
+    {
+        "title": "Don Quijote De La Mancha",
+        "author": "Miguel de Cervantes",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Don_Quixote_(1605).jpg/220px-Don_Quixote_(1605).jpg",
+        "genre": "Novel",
+        "plot": "A novel about the adventures of an aging nobleman who becomes a self-styled knight.",
+        "year": 1610
+    },
+    {
+        "title": "The Canterbury Tales",
+        "author": "Geoffrey Chaucer",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Canterbury_Tales_-_Chaucer.jpg/220px-Canterbury_Tales_-_Chaucer.jpg",
+        "genre": "Poetry",
+        "plot": "A collection of stories told by various characters on a pilgrimage.",
+        "year": 1450
+    },
+    {
+        "title": "Stories",
+        "author": "Anton Chekhov",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Anton_Chekhov_1900s.jpg/220px-Anton_Chekhov_1900s.jpg",
+        "genre": "Short Stories",
+        "plot": "A collection of short stories by the Russian playwright and short-story writer.",
+        "year": 1886
+    },
+    {
+        "title": "The Trial",
+        "author": "Franz Kafka",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Franz_Kafka_1914.jpg/220px-Franz_Kafka_1914.jpg",
+        "genre": "Novel",
+        "plot": "A novel about a man who is arrested and prosecuted by a remote, inaccessible authority.",
+        "year": 1925
+    },
+    {
+        "title": "Sentimental Education",
+        "author": "Gustave Flaubert",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sentimental_Education_Flaubert.jpg/220px-Sentimental_Education_Flaubert.jpg",
+        "genre": "Novel",
+        "plot": "A novel depicting the life and loves of a young man in 19th-century France.",
+        "year": 1869
+    },
+    {
+        "title": "The Red and the Black",
+        "author": "Stendhal",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/The_Red_and_the_Black.jpg/220px-The_Red_and_the_Black.jpg",
+        "genre": "Novel",
+        "plot": "A novel about the rise and fall of a young man in post-Napoleonic France.",
+        "year": 1830
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Old_Man_and_the_Sea_1952.jpg/220px-The_Old_Man_and_the_Sea_1952.jpg",
+        "genre": "Novel",
+        "plot": "A novel about an old fisherman's struggle with a giant marlin.",
+        "year": 1952
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Catcher_in_the_Rye_1951.jpg/220px-The_Catcher_in_the_Rye_1951.jpg",
+        "genre": "Novel",
+        "plot": "A novel about a teenager's experiences in New York City.",
+        "year": 1951
+    },
+    {
+        "title": "A Passage to India",
+        "author": "E.M. Forster",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_Passage_to_India.jpg/220px-A_Passage_to_India.jpg",
+        "genre": "Novel",
+        "plot": "A novel about the clash between British and Indian cultures.",
+        "year": 1924
+    }
+]

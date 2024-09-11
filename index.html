@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book Catalogue</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Dynamic Book Catalogue</h1>
+
+      <div class="controls">
+        <input type="text" id="searchBox" placeholder="Search for books..." />
+        <select id="sortOptions">
+          <option value="title">Sort by Title</option>
+          <option value="author">Sort by Author</option>
+        </select>
+      </div>
+
+      <div id="bookList"></div>
+
+      <div id="pagination"></div>
+
+      <div id="errorMessage"></div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
